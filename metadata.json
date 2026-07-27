@@ -1,0 +1,6 @@
+{
+  "name": "Meal Cost Splitter",
+  "description": "An app that splits restaurant bills using receipt photos and natural language mapping, computing exact transfers including taxes and service charges.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
